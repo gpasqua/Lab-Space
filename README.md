@@ -1,2 +1,2 @@
-# biblioAPP
-Software per la gestione di una biblioteca.
+# Lab-Space
+Laboratorio - Sviluppo Web.
